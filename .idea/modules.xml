@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Machine Learning/.idea/Machine Learning.iml" filepath="$PROJECT_DIR$/../Machine Learning/.idea/Machine Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NewsAPI/.idea/NewsAPI.iml" filepath="$PROJECT_DIR$/../NewsAPI/.idea/NewsAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Note App/.idea/Note App.iml" filepath="$PROJECT_DIR$/../Note App/.idea/Note App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Tinder.iml" filepath="$PROJECT_DIR$/.idea/Tinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../projects/.idea/projects.iml" filepath="$PROJECT_DIR$/../projects/.idea/projects.iml" />
+    </modules>
+  </component>
+</project>
